@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #7C96AB;
+}
+
+
+.cajaPrincipal{
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.inputNumeros{
+    width: 300px;
+}
+
+.cajaResults{
+    display: none;
+}
+
+.icono{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.validate{
+    display: none;
+}
