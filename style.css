@@ -6,8 +6,10 @@
 
 body{
     background-color: #7C96AB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-
 
 .cajaPrincipal{
     justify-content: center;
@@ -30,4 +32,8 @@ body{
 
 .validate{
     display: none;
+}
+
+.margenSuperior{
+    margin-top: 6rem;
 }
